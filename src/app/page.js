@@ -90,7 +90,7 @@ export default function Home() {
 
         {/* Section: Collection of Deceased */}
         <section id="todays-passed">
-          <h2 className="text-3xl font-bold mb-6 text-[#1E293B]">Today's Passed</h2>
+          <h2 className="text-3xl font-bold mb-6 text-[#1E293B]">Today&apos;s Passed</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {/* Example Cards */}
             <div className="bg-[#FDF2F8] shadow-md rounded-lg p-6">
